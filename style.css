@@ -1,0 +1,329 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'poppins';
+}
+.header-in-a{
+    text-decoration: none;
+    color: white;
+}
+.tugma {
+    display: flex;
+    align-items: center;
+  width: 120px;
+  justify-content: space-between;
+
+}
+.ko {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'poppins';
+}
+.navbar {
+    padding: 25px 25px;
+    background-image:url('./div.elementor-background-overlay.png') ;
+    background-color: rgb(23, 23, 23);
+}
+.container {
+    max-width: 1420px;
+    margin: 0 auto;
+}
+.orab-turuvchi {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+li {
+    margin-right: 40px;
+    color: white;
+}
+.img {
+    width: 20px;
+    height: 20px;
+    margin-right: 27px;
+}
+.img-one-in-header {
+    width: 150px;
+    height: 23px;
+
+}
+.imgs {
+    display: flex;
+    justify-content: space-evenly;
+}
+.img-container {
+    max-width: 1920px;
+    margin-bottom: 13px;
+
+}
+.fa-brands{   
+    font-size: 20px;
+}
+.fa-bars{
+    font-size: 22px;
+}
+.kotta-img{
+    background-image: url('./csm_jasna___111__fa0f8baa06.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.snow{
+    text-shadow: 3px 3px #FD661E;
+    font-size: 130px;
+    font-family: 'jost';
+    color: white;
+}
+.adv{
+    text-shadow: 2px 2px white;
+    font-size: 90px;
+    font-family: 'jost';
+    color: #1E92FD;
+    margin-top: -50px;
+}
+.addd{
+    color: white;
+    font-size: 16px;
+    width: 553px;
+    margin-top: 25px;
+}
+.des{
+    color:black;
+    font-size:16px ;
+
+}
+.all{
+    color:#6E6E6E;
+    font-size: 14px;
+    margin-top: 5px;
+}
+.butto{
+    background-color: #FD661E;
+    width: 268px;
+    height: 61px;
+    border: none;
+    color: white;
+    border-radius: 10px;
+}
+.buton{
+    display: flex;
+    align-items: center;
+    width: 577px;
+    height: 101px;
+    justify-content: space-evenly;
+    border-radius: 15px;
+    background-color: white;
+}
+.fa-location-dot{
+    font-size:35px ;
+}
+.imglar{
+    background-image: url('./slide-square.jpg.png');
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-position: center;
+    width: 493px;
+    height: 493px;
+    margin-left: 90px;
+}
+.ku{
+    width: 520px;
+    position: absolute;
+    bottom: 150px;
+}
+.h1{
+    font-family: 'Reenie Beanie';
+    color:#FD661E;
+    font-size: 29px; 
+}
+.h1-plan{
+    font-size: 50px;
+    width: 641.26px;
+    color: #181D4E;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.p{
+    width: 640.56px;
+    color: #6E6E6E;
+    margin-bottom:25px ;
+}
+.but{
+    width: 126.89px;
+    height: 44px;
+    border: none;
+    background-color: #FD661E;
+    color: white;
+    border-radius: 5px;
+}
+.yana-imglar{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    width: 1300px;
+    margin:0 auto;
+}
+.butto{
+    margin: 0px;
+    padding: 0px;
+    width: 110.08px;
+    height: 44px;
+    background-color: #FD661E;
+    border: none;
+    border-radius: 5px;
+}
+.butt{
+    margin: 0px;
+    padding: 0px;
+    width: 110.08px;
+    height: 44px;
+    background-color:#1E92FD;
+    border: none;
+    border-radius: 5px;
+}
+.cards-img-one{
+    width: 413px;
+    height: 275px;
+    border-radius:16px 16px 0px 0px;
+}
+.cards-h2{
+    margin-top: 20px;
+}
+.cards-two{
+    display: flex;
+    align-items: center;
+    margin-bottom: 23px;
+    margin-top: 10px;
+}
+.cards-p{
+    color: #6e6e6e;
+}
+.p-two{
+    width: 341px;
+    height: 72px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #6e6e6e;
+}
+.cards-container{
+    max-width: 360px;
+    margin:0 auto;
+    
+}
+.cards{
+    max-width: 413px;
+    box-shadow: 0px 0px 30px 1px rgb(220, 220, 220);
+    border-radius: 16px;
+}
+.cards-pp{
+    color: #6e6e6e;
+    font-size: 14px;
+}
+.cost{
+    display: column;
+}
+button{
+    width: 110px;
+    background-color:#BA71DA ;
+    font-size: 17px;
+    border: none;
+    border-radius: 5px;
+}
+.cost-ota{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 30px;
+    padding-bottom: 30px;
+    
+}
+.cardss-ota{
+    display: flex;
+    justify-content:space-evenly;
+    max-width: 1350px;
+    margin:0 auto;
+    margin-bottom:100px;
+}
+.button-two{
+    width: 110px;
+    background-color:#14B9D5 ;
+    font-size: 17px; 
+}
+.h{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1300px;
+    margin:0 auto;
+    padding-top: 100px;
+}
+.h11{
+    font-family: 'Reenie Beanie';
+    color:#FD661E;
+    font-size: 29px; 
+    margin:0 auto;
+    text-align: center;
+}
+.orta{
+   background-color: rgb(234, 234, 234);
+   padding-top: 120px;
+   padding-bottom: 50px;
+}
+.h1-1{
+    width:727.65px;
+    margin:0 auto;
+    text-align: center;
+    color: #6E6E6E;
+}
+.h1-{
+    text-align: center;
+    margin:0 auto;
+    font-size: 35px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.footer-h1{
+    font-size: 45px;
+    width: 553.36px;
+    color: rgb(210, 210, 210);
+    margin-top: 75px;
+}
+.white{
+    margin-bottom: 15px;
+    color: rgb(210, 210, 210);
+}
+.fa-brands{
+    margin-right: 17px;
+    color:rgb(210, 210, 210) ;
+}
+.footer{
+    background-image: url('./div.elementor-background-overlay\ \(1\).png');
+    display: flex;
+    justify-content: space-evenly; 
+    background-color: rgb(26, 26, 26); 
+}
+.iconcha{
+    display: flex;
+}
+.button{
+    background-color: #1BBC9B;
+    width: 200px;
+}
+.footer-ona{
+
+}
+.in-footer{
+    margin-top: 80px;
+}
+.footer-three{
+    margin-top: 80px;
+} 
